@@ -1,7 +1,7 @@
 
 **Prosjekt**: Programmering arbeidskrav 1
 
-	Innhold: python program for å hente data fra API med nøkkel (strømpriser) og uten nøkkel (catfacts).
+	Innhold: python program for å hente data fra API med nøkkel (strømpriser, fra https://strompriseridag.no/api/) og uten nøkkel (catfacts, fra https://catfact.ninja/#/).
 
 	Hensikt: lære hvordan hente og lagre API-nøkkel trygt vha python keyring; lære å hente data fra API med og uten nøkkel.
 
