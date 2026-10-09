@@ -1,6 +1,6 @@
   ##### IMPORT PACKAGES #####
-import requests
-import json
+import requests    # to get access to the API data
+import json        # for data in json-format
 
   ##### REQUEST API-DATA #####
 cat = requests.get('https://catfact.ninja/facts') # request the API-data
